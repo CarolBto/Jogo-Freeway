@@ -1,2 +1,2 @@
-# Jogo-Freeway
+O Freeway é um jogo de cartucho feito para o Atari, recriado aqui utilizando a linguagem Javascript. Nele, o personagem precisa atravessar uma rodovia com vários carros passando. Ao chegar do outro lado, os pontos são marcados e, se houver colisão com algum carro, o personagem volta ao local inicial e perde ponto. Para movimentar o personagem, utilize as setas para cima e para baixo.# Jogo-Freeway
 Freeway
